@@ -8,3 +8,24 @@ The electronics component for myoelectric control is still under development, an
 
 ![Prosthetic Hand Schematic](https://github.com/AshutoshPandey123456/ProstheticHand/blob/master/Aakruti1.png)
 
+| Part Number | Name |
+| ------------| ---- |
+| 1  | INDEX FINGER DISTAL|
+| 2  | INDEX FINGER MIDDLE|
+| 3  | INDEX FINGER BOTTOM PROXIMAL|
+| 4  | RING FINGER MIDDLE |
+| 5  | RING FINGER DISTAL |
+| 6  | RING FINGER BOTTOM PROXIMAL |
+| 7  | MIDDLE FINGER MIDDLE |
+| 8  | MIDDLE FINGER DISTAL |
+| 9  | MIDDLE FINGER BOTTOM PROXIMAL|
+| 10 | PINKY FINGER PROXIMAL|
+| 11 | PINKY FINGER MIDDLE|
+| 12 | PINKY FINGER DISTAL|
+| 13 | THUMB PROXIMAL|
+| 14 | THUMB TIP|
+| 15 | PALM FRAME BODY|
+| 16 | STANDARD SERVO|
+
+## Render
+![Prosthetic Hand Render](https://github.com/AshutoshPandey123456/ProstheticHand/blob/master/5%20(3).PNG)
